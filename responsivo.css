@@ -28,7 +28,7 @@
             display: block;
         }
 
-        .carousel-item .slider-items {
+        .carousel-content {
             width: 90%;
             position: static;
             margin-top: 20px;

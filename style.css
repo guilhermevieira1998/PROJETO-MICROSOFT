@@ -36,9 +36,9 @@ header {
 
 .carousel-content {
     position: absolute;
-    top: 60px;
-    width: 30%;
     margin-left: 5%;
+    width: 30%;
+    top: 80px;
 
     h2 {
         font-size: 1.8rem;
@@ -52,7 +52,7 @@ header {
 
     button {
         background-color: #0067b8;
-        color: #fff;
+        color: #fff !important;
         padding: 10px 12px;
         font-weight: 500;
         border: none;
